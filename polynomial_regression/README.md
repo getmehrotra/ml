@@ -9,3 +9,5 @@
 >>Predicting Crop Yields: 4. Use polynomial regression to predict crop yields based on historical weather data, soil quality, irrigation patterns, and other relevant factors. This project can be particularly useful for farmers who want to optimize their crop production. 
 
 >>Predicting Customer Lifetime Value: 5. Use polynomial regression to predict the lifetime value of a customer based on their past purchase behavior, demographics, and other relevant factors. This project can be particularly interesting for companies that want to optimize their customer acquisition and retention strategies.
+
+>>Predicting Air Pollution Levels: 6. Use polynomial regression to predict air pollution levels based on historical weather data, traffic patterns, and other relevant factors. This project can be particularly interesting if you live in an area with high levels of air pollution.
