@@ -4,13 +4,13 @@
 
 >>Predicting the likelihood of a customer to leave a subscription service 
 
-###Predicting whether a bank loan will be approved or not 
+### Predicting whether a bank loan will be approved or not 
 
 >>Predicting whether a customer will default on a credit card payment 
 
 >>Identifying fraudulent transactions in financial data 
 
-###Picking Predicting whether a bank loan will be approved or not. As the example is of finance domain and for feature engineer domain knowledge is necessary. Hence taken referece from https://github.com/ankit-kothari/Credit-Risk-Analysis. Thanks Ankit Kothari for awsome work. 
+### Picking Predicting whether a bank loan will be approved or not. As the example is of finance domain and for feature engineer domain knowledge is necessary. Hence taken referece from https://github.com/ankit-kothari/Credit-Risk-Analysis. Thanks Ankit Kothari for awsome work. 
 
 ## The project is having Four parts
 ### 1. Feature Engineering
