@@ -1,2 +1,1 @@
-# This repository contains small projects related to machine learning concept validations. 
-
+** Running Clustering on Diabetics data to predict paitent cluster"
