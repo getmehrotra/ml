@@ -9,3 +9,5 @@
 >>Classifying images of clothing items into different categories 
 
 >>Predicting whether a customer will buy a product based on their browsing history
+
+Random Forest use case is available in Decision Tree
